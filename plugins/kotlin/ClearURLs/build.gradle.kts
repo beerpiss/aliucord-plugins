@@ -1,5 +1,5 @@
-version = "1.0.0" // Plugin version. Increment this to trigger the updater
-description = "My first patch!" // Plugin description that will be shown to user
+version = "0.0.1" // Plugin version. Increment this to trigger the updater
+description = "Removes tracking garbage from URLs" // Plugin description that will be shown to user
 
 aliucord {
     // Changelog of your plugin
